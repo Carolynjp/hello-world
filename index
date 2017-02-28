@@ -1,0 +1,54 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Page Title</title>
+  <meta name="description" content="A template to get started.">
+  <meta name="author" content="Carolyn Palo">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <header>
+    <nav>
+      <p><a href="#article1">Article 1</a></p>
+       <p><a href="#article2">Article 2</a>
+    </nav>
+  </header>
+  
+  <section>
+    <h1>Carolyn's Page</h1>
+  
+    <article id="article1">
+      <header>
+        <h2>First Idea</h2>
+      </header>
+      <p>I enjoy baking.</p>
+    </article>
+    
+    <article id="article2">
+      <header>
+        <h2>Second idea</h2>
+      </header>
+      <p class="important">I use my kitchen as my baking laboratory.</p>
+    </article> 
+  </section>
+
+  <aside>
+    <h2>Brownie photo</h2>
+    <p><img /></p>
+  </aside>
+
+  <aside class="quotation">
+    <h2>Quotation</h2>
+    <p>""You gotta get burned to learn."</p>
+  </aside>
+
+  <footer>
+    <p>Copyright 2017 Carolyn Palo</p>
+  </footer>
+
+</body>
+</html>
